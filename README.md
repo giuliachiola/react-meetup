@@ -2,11 +2,11 @@
 
 Basic meetups aplplication.
 
-| \                | \                                                                                                                                                                             |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Deploy status    | [![Netlify Status](https://api.netlify.com/api/v1/badges/4b341266-e305-4e51-a1b9-00f901080f12/deploy-status)](https://app.netlify.com/sites/react-pokemon-app-giulia/deploys) |
-| Deploy preview   | https://react-pokemon-app-giulia.netlify.app/                                                                                                                                 |
-| Project typology | 📒 Step by step from tutorial [React Crash Course for Beginners 2021](https://www.youtube.com/watch?v=Dorf8i6lCuk)                                                            |
+| \                | \                                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Deploy status    | \                                                                                                                  |
+| Deploy preview   | \                                                                                                                  |
+| Project typology | 📒 Step by step from tutorial [React Crash Course for Beginners 2021](https://www.youtube.com/watch?v=Dorf8i6lCuk) |
 
 ![project preview](docs/project-preview.png)
 
