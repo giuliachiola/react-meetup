@@ -16,7 +16,7 @@ Basic meetups aplplication.
 | :------------ | :----------- |
 | Framework     | React        |
 | Templating    | JSX          |
-| Styling       | SCSS + BEMIT |
+| Styling       | CSS          |
 | Documentation | Markdown     |
 
 ## 🌊 Run development mode
